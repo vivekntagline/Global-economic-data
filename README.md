@@ -1,5 +1,7 @@
 # Global Economic Data Dashboard
 
+![pexels-gabby-k-7412089](https://github.com/user-attachments/assets/ec3d1595-face-4e40-98f9-baf1ff87cbd2)
+
 ## Overview
 This project is an **interactive and animated dashboard** visualizing various global economic indicators using data from different countries. The dashboard provides insights into:
 
@@ -52,6 +54,3 @@ The dashboard is built using **Tableau** and can be accessed [here](https://publ
 
 ## Contributing
 Feel free to fork the repository and raise PRs for improvements or new visualizations.
-
-## License
-This project is licensed under the MIT License.
